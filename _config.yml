@@ -1,15 +1,12 @@
 # Site settings
-title: Roberto Vargas-Librarian
+title: Roberto Vargas
 email: localhost@localhost.com
 description: > # this means to ignore newlines until "baseurl:"
-  Swarthmore College Libraries
-  500 College Avenue
-  Swarthmore, PA
-  19081
+  Technopoly, Technocracy, Technique 
 #baseurl: "librarian" # the subpath of your site, e.g. /blog/
 url: "http://betovargas.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: betotecario
+github_username:  betovargas
 
 # Build settings
 markdown: kramdown

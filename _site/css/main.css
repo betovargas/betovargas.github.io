@@ -237,8 +237,9 @@ pre {
   width: calc(20% - (30px / 2)); }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (30px / 2));
-  width: calc(45% - (30px / 2)); }
+  width: -webkit-calc(15% - (30px / 1));
+  width: calc(15% - (30px / 1));
+  float: right; }
 
 @media screen and (max-width: 800px) {
   .footer-col-1,

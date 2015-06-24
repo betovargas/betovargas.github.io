@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Roberto Vargas-Librarian</title>
-    <description>Swarthmore College Libraries 500 College Avenue Swarthmore, PA 19081
+    <title>Roberto Vargas</title>
+    <description>Technopoly, Technocracy, Technique 
 </description>
     <link>http://betovargas.github.io/</link>
     <atom:link href="http://betovargas.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jun 2015 16:07:41 -0400</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2015 16:07:41 -0400</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2015 17:19:50 -0400</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2015 17:19:50 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
