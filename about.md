@@ -8,9 +8,6 @@ permalink: /CV/
 
 Swarthmore College
 
-Research Librarian for the Humanities & Interdiciplinary Studies - October 2014 - Present
-
-
 Reference & Digital Projects Resident - May 2014-October 2015
 •	Library liaison for the following departments: Latin American Studies, Spanish, Philosophy, Classics, Religion and Linguistics
 •	Participate in the development of Digital Scholarship through multiple projects such MALLET workshops, the SPEED summer internship program and dynamic Wordpress websites
