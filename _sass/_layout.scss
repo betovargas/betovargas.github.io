@@ -131,9 +131,8 @@
 }
 
 .footer-col-3 {
-    width: -webkit-calc(15% - (#{$spacing-unit} / 1));
-    width:         calc(15% - (#{$spacing-unit} / 1));
-    float: right;
+    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+    width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -179,93 +178,6 @@
     }
 }
 
-.post-cv {
-    margin-bottom: $spacing-unit;
-    margin-right: 100px;
-    background-color:rgb(255,248,220);
-
-    h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
-    }
-}
-
-.post-home {
-    margin-bottom: $spacing-unit;
-    background-color:rgba(255,0,0,0.5);
-
-    h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
-    }
-}
-.post-home-intro {
-    margin-bottom: $spacing-unit;
-    margin-right: 188px;
-    background-color:rgb(240,248,255);
-
-    h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
-    }
-}
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
@@ -297,7 +209,6 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
-    opacity: 0.4;
 
     h2 {
         font-size: 32px;

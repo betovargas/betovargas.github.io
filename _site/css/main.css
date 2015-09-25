@@ -237,9 +237,8 @@ pre {
   width: calc(20% - (30px / 2)); }
 
 .footer-col-3 {
-  width: -webkit-calc(15% - (30px / 1));
-  width: calc(15% - (30px / 1));
-  float: right; }
+  width: -webkit-calc(45% - (30px / 2));
+  width: calc(45% - (30px / 2)); }
 
 @media screen and (max-width: 800px) {
   .footer-col-1,
@@ -270,65 +269,6 @@ pre {
   .post-list > li {
     margin-bottom: 30px; }
 
-.post-cv {
-  margin-bottom: 30px;
-  margin-right: 100px;
-  background-color: cornsilk; }
-  .post-cv h2 {
-    font-size: 32px; }
-    @media screen and (max-width: 800px) {
-      .post-cv h2 {
-        font-size: 28px; } }
-  .post-cv h3 {
-    font-size: 26px; }
-    @media screen and (max-width: 800px) {
-      .post-cv h3 {
-        font-size: 22px; } }
-  .post-cv h4 {
-    font-size: 20px; }
-    @media screen and (max-width: 800px) {
-      .post-cv h4 {
-        font-size: 18px; } }
-
-.post-home {
-  margin-bottom: 30px;
-  background-color: rgba(255, 0, 0, 0.5); }
-  .post-home h2 {
-    font-size: 32px; }
-    @media screen and (max-width: 800px) {
-      .post-home h2 {
-        font-size: 28px; } }
-  .post-home h3 {
-    font-size: 26px; }
-    @media screen and (max-width: 800px) {
-      .post-home h3 {
-        font-size: 22px; } }
-  .post-home h4 {
-    font-size: 20px; }
-    @media screen and (max-width: 800px) {
-      .post-home h4 {
-        font-size: 18px; } }
-
-.post-home-intro {
-  margin-bottom: 30px;
-  margin-right: 188px;
-  background-color: aliceblue; }
-  .post-home-intro h2 {
-    font-size: 32px; }
-    @media screen and (max-width: 800px) {
-      .post-home-intro h2 {
-        font-size: 28px; } }
-  .post-home-intro h3 {
-    font-size: 26px; }
-    @media screen and (max-width: 800px) {
-      .post-home-intro h3 {
-        font-size: 22px; } }
-  .post-home-intro h4 {
-    font-size: 20px; }
-    @media screen and (max-width: 800px) {
-      .post-home-intro h4 {
-        font-size: 18px; } }
-
 .post-meta {
   font-size: 14px;
   color: #828282; }
@@ -352,8 +292,7 @@ pre {
       font-size: 36px; } }
 
 .post-content {
-  margin-bottom: 30px;
-  opacity: 0.4; }
+  margin-bottom: 30px; }
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {
