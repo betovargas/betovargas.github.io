@@ -15,7 +15,7 @@ dl, dd, ol, ul, figure {
  */
 body {
     font-family: $base-font-family;
-    font-size: $base-font-size;
+    font-size: 30px;
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
@@ -98,7 +98,7 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
+        text-decoration: none;
     }
 }
 
@@ -158,6 +158,8 @@ pre {
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;

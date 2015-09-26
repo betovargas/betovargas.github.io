@@ -2,7 +2,9 @@
 title: Roberto Vargas
 email: localhost@localhost.com
 description: > # this means to ignore newlines until "baseurl:"
-  Technopoly, Technocracy, Technique 
+  Technopoly, 
+  Technocracy, 
+  Technique 
 #baseurl: "librarian" # the subpath of your site, e.g. /blog/
 url: "http://betovargas.github.io" # the base hostname & protocol for your site
 twitter_username: betotecario
