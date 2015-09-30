@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 1px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid #E3AE57;
     min-height: 56px;
     background-color: #232B2B;
 
@@ -96,8 +96,9 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    border-top: 1px solid #E3AE57;
+    padding: 69px 0;
+    background-color: #232B2B;
 }
 
 .footer-heading {
@@ -113,7 +114,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: #E3AE57;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -214,6 +215,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    font-size: 18px;
 
     h2 {
         font-size: 32px;
