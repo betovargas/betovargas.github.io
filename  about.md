@@ -16,7 +16,7 @@ permalink: /cv/
 
 #### Current  
 * 2015-   
-Research Librarian for Humanities & interdisciplinary Studies   
+Research Librarian for Humanities & interdisciplinary Studies-Swarthmore College, McCabe Library   
 
 * 2014-2015      
 Reference & Digital Projects Resident-Swarthmore College, McCabe Library   
