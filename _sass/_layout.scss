@@ -3,25 +3,25 @@
  */
 .site-header {
     border-top: 1px solid $grey-color-dark;
-    border-bottom: 1px solid #E3AE57;
+    border-bottom: 1px;
     min-height: 56px;
-    background-color: #232B2B;
+    background-color: #FFFFFF;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
-    font-size: 39px;
+    font-size: 45px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    color: #DC3D24;
+    color: #FF606E;
 
     &,
     &:visited {
-        color: #DC3D24;
+        color: #FF606E;
     }
 }
 
@@ -34,9 +34,11 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: #FF606E;
+        text-decoration: underline;
+        text-decoration-color: #00DDD8;
         line-height: $base-line-height;
-        background-color: #DC3D24;
+        
 
 
         // Gaps between nav items, but not on the first one
@@ -96,9 +98,9 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid #E3AE57;
+    border-top: 1px;
     padding: 69px 0;
-    background-color: #232B2B;
+    background-color: #FFFFFF
 }
 
 .footer-heading {
@@ -114,7 +116,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: #E3AE57;
+    color: #517398;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -138,6 +140,8 @@
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+    text-align: right;
+    color: #FF606E;
 }
 
 @include media-query($on-laptop) {
@@ -168,7 +172,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
-    background-color: #232B2B;
+    background-color: #FFFFFF;
 }
 
 .page-heading {
@@ -204,7 +208,7 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 30px;
     letter-spacing: -1px;
     line-height: 1;
 

@@ -15,7 +15,7 @@ body {
   font-size: 30px;
   line-height: 1.5;
   font-weight: 300;
-  color: #fff8f8;
+  color: #262C3A;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%; }
 
@@ -64,13 +64,13 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #DC3D24;
+  color: #517398;
   text-decoration: none;
   /**&:visited {
       color: darken($brand-color, 15%);
   }*/ }
   a:hover {
-    color: #fff8f8;
+    color: #262C3A;
     text-decoration: none; }
 
 /**
@@ -127,6 +127,13 @@ pre {
       padding-left: 15px; } }
 
 /**
+ * Home
+ 
+.home {
+    text-align: center
+}
+*/
+/**
  * Clearfix
  */
 .wrapper:after, .footer-col-wrapper:after {
@@ -150,20 +157,20 @@ pre {
  */
 .site-header {
   border-top: 1px solid #424242;
-  border-bottom: 1px solid #E3AE57;
+  border-bottom: 1px;
   min-height: 56px;
-  background-color: #232B2B;
+  background-color: #FFFFFF;
   position: relative; }
 
 .site-title {
-  font-size: 39px;
+  font-size: 45px;
   line-height: 56px;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  color: #DC3D24; }
+  color: #FF606E; }
   .site-title, .site-title:visited {
-    color: #DC3D24; }
+    color: #FF606E; }
 
 .site-nav {
   float: right;
@@ -171,9 +178,10 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #fff8f8;
-    line-height: 1.5;
-    background-color: #DC3D24; }
+    color: #FF606E;
+    text-decoration: underline;
+    text-decoration-color: #00DDD8;
+    line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
   @media screen and (max-width: 600px) {
@@ -212,9 +220,9 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #E3AE57;
+  border-top: 1px;
   padding: 69px 0;
-  background-color: #232B2B; }
+  background-color: #FFFFFF; }
 
 .footer-heading {
   font-size: 18px;
@@ -227,7 +235,7 @@ pre {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #E3AE57;
+  color: #517398;
   margin-left: -15px; }
 
 .footer-col {
@@ -245,7 +253,9 @@ pre {
 
 .footer-col-3 {
   width: -webkit-calc(45% - (30px / 2));
-  width: calc(45% - (30px / 2)); }
+  width: calc(45% - (30px / 2));
+  text-align: right;
+  color: #FF606E; }
 
 @media screen and (max-width: 800px) {
   .footer-col-1,
@@ -266,7 +276,7 @@ pre {
  */
 .page-content {
   padding: 30px 0;
-  background-color: #232B2B; }
+  background-color: #FFFFFF; }
 
 .page-heading {
   font-size: 20px; }
@@ -292,7 +302,7 @@ pre {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 42px;
+  font-size: 30px;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {
