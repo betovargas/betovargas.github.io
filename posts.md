@@ -1,5 +1,5 @@
 ---
 layout: wrapper
-title: Posts
+title: posts
 permalink: /posts/
 ---

@@ -70,7 +70,7 @@ a {
       color: darken($brand-color, 15%);
   }*/ }
   a:hover {
-    color: #262C3A;
+    color: #517398;
     text-decoration: none; }
 
 /**
@@ -157,16 +157,16 @@ pre {
  */
 .site-header {
   border-top: 1px solid #424242;
-  border-bottom: 1px;
   min-height: 56px;
   background-color: #FFFFFF;
+  padding-bottom: 1px;
   position: relative; }
 
 .site-title {
   font-size: 45px;
   line-height: 56px;
   letter-spacing: -1px;
-  margin-bottom: 0;
+  margin-bottom: 0px;
   float: left;
   color: #FF606E; }
   .site-title, .site-title:visited {
@@ -179,8 +179,8 @@ pre {
     display: none; }
   .site-nav .page-link {
     color: #FF606E;
-    text-decoration: underline;
-    text-decoration-color: #00DDD8;
+    border-bottom: solid;
+    border-color: #00DDD8;
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
@@ -220,7 +220,6 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px;
   padding: 69px 0;
   background-color: #FFFFFF; }
 
