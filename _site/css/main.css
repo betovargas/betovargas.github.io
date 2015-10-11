@@ -327,6 +327,9 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+#post-test p {
+  background-color: #FFFFFF; }
+
 /**
  * Syntax highlighting styles
  */
