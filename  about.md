@@ -4,13 +4,13 @@ title: cv
 permalink: /cv/
 ---
 
-#### Abbreviated resume
+#### Abbreviated resume - in progress....
 
 ### EDUCATION 	
 
 * 2012  Masters of Library and Information Science, concentration in Archival Studies, Drexel University, Philadelphia, PA       
 
-* 2005  Bachelor of Arts, Classical Studies, concentration in Linguistics and Sociology, Knox College, Galesburg, IL
+* 2005  Bachelor of Arts, Classical Studies, minors in Linguistics and Sociology, Knox College, Galesburg, IL
 
 ### PROFESSIONAL EXPERIENCE
 
