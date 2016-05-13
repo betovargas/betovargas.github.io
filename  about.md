@@ -12,6 +12,8 @@ permalink: /cv/
 
 * 2005  Bachelor of Arts, Classical Studies, minors in Linguistics and Sociology, Knox College, Galesburg, IL
 
+<hr/>
+
 ### PROFESSIONAL EXPERIENCE 
 
 #### Swarthmore College, McCabe Library
@@ -24,6 +26,12 @@ Reference & Digital Projects Resident
 
 * 2013-2014   
 Reference Librarian
+
+<hr/>
+
+### Presentations
+
+<hr/>
 
 ### Honors & Awards  
 
