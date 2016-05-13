@@ -148,7 +148,9 @@ pre {
   display: inline-block;
   width: 16px;
   height: 16px;
-  vertical-align: middle; }
+  vertical-align: middle;
+  float: left;
+  padding-left: 5px; }
   .icon > svg path {
     fill: #828282; }
 
@@ -469,3 +471,9 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+/*personal changes*/
+hr {
+  border-color: #00DDD8;
+  margin-top: 2em;
+  margin-bottom: 2em; }
