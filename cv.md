@@ -29,8 +29,7 @@ Reference Librarian
 
 <hr/>
 
-### Presentations & Posters .... in progress
-
+### Presentations & Posters 
 "Allá y Aquí: American and Mexican News Perceptions of Ciudad Juarez"(presentation). KeystoneDH, University of Pittsburgh, Pittsburgh. June 23, 2016.
 
 "Finding the Zones: Understanding Communication of Evidence in Undergraduate Research" With Sarah Elichko, Pam Harris. ALA Annual Conference. June 25, 2016.
