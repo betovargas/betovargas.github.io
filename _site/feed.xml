@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ROBERTO VARGAS</title>
+    <description>roberto.vargas.corrales at gmail dot com 
+</description>
+    <link>http://betovargas.github.io/</link>
+    <atom:link href="http://betovargas.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Jul 2016 11:49:06 -0400</pubDate>
+    <lastBuildDate>Sun, 10 Jul 2016 11:49:06 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Coming Soon</title>
+        <description>&lt;p&gt;I will post something here.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Sep 2015 09:43:38 -0400</pubDate>
+        <link>http://betovargas.github.io/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://betovargas.github.io/welcome-to-jekyll/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>This site is built with Jekyll</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; &lt;br /&gt;
+For bugs &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 25 Sep 2015 00:00:00 -0400</pubDate>
+        <link>http://betovargas.github.io/test-post/</link>
+        <guid isPermaLink="true">http://betovargas.github.io/test-post/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
