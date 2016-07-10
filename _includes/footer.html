@@ -20,7 +20,10 @@
             </a>
           </li>
           {% endif %}
-
+        </ul>
+      </div>
+      <div class="footer-col  footer-col-2">
+                <ul class="social-media-list">
           {% if site.twitter_username %}
           <li>
             <a class="smedia" href="https://twitter.com/{{ site.twitter_username }}">
@@ -31,20 +34,18 @@
                 </svg>
               </span>
 
-              <span class="username">&nbsp;&nbsp;{{ site.twitter_username }}</span>
+              <span class="username">&nbsp;&nbsp;@{{ site.twitter_username }}</span>
             </a>
           </li>
           {% endif %}
         </ul>
-      </div>
-      <div class="footer-col  footer-col-2">
         <!--ul class="contact-list">
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul-->
       </div>
       <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+        <!--p class="text">{{ site.description }}</p-->
       </div>
     </div>
 
