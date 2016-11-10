@@ -30,9 +30,11 @@ Reference Librarian
 <hr/>
 
 ### Presentations & Posters 
-"Allá y Aquí: American and Mexican News Perceptions of Ciudad Juarez"(presentation). KeystoneDH, University of Pittsburgh, Pittsburgh. June 23, 2016.
+"Jekyll for Librarians" (workshop). DLF-LAC, Milwuakee, WI. November 6, 2017.
 
 "Finding the Zones: Understanding Communication of Evidence in Undergraduate Research" With Sarah Elichko, Pam Harris. ALA Annual Conference. June 25, 2016.
+
+"Allá y Aquí: American and Mexican News Perceptions of Ciudad Juarez"(presentation). KeystoneDH, University of Pittsburgh, Pittsburgh. June 23, 2016.
 
 "Swarthmore Projects for Educational Exploration and Development (SPEED): Promoting Public Scholarship in the Liberal Arts" With Nabil Kashyap. Bucknell DS, Bucknell University, Lewisburg. November 7, 2015.
 
