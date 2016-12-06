@@ -38,6 +38,8 @@ Reference Librarian
 
 "Swarthmore Projects for Educational Exploration and Development (SPEED): Promoting Public Scholarship in the Liberal Arts" With Nabil Kashyap. Bucknell DS, Bucknell University, Lewisburg. November 7, 2015.
 
+"Swarthmore Projects for Educatinal Exploration and Developement (SPEED): Student Collaboration" (Poster) ACRL. September ,2015
+
 
 <hr/>
 
