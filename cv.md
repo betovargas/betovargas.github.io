@@ -27,6 +27,11 @@ Reference & Digital Projects Resident
 * 2013-2014   
 Reference Librarian
 
+#### Drexel University College of Medicine
+
+* 2013
+Archives Intern
+
 <hr/>
 
 ### Presentations & Posters 
