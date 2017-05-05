@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: phone
 permalink: /phone/
 ---
 
