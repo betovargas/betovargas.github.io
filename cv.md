@@ -34,7 +34,9 @@ Archives Intern
 
 <hr/>
 
-### Presentations & Posters 
+### Presentations & Posters
+"Collaborative Jekyll" (Workshop). KeystoneDH, Tricollege / Chemical Heritage Foundation, Philadelphia. July 12, 2017.
+
 "Jekyll for Librarians" (workshop). DLF-LAC, Milwuakee, WI. November 6, 2017.
 
 "Finding the Zones: Understanding Communication of Evidence in Undergraduate Research" With Sarah Elichko, Pam Harris. ALA Annual Conference. June 25, 2016.
