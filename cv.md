@@ -4,7 +4,7 @@ title: cv
 permalink: /cv/
 ---
 
-#### Abbreviated resume - in progress....
+#### Abbreviated resume -
 
 ### EDUCATION 	
 
