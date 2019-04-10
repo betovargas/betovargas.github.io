@@ -2,6 +2,7 @@
 layout: page
 title: cv
 permalink: /cv/
+published: false
 ---
 
 #### Abbreviated resume -
